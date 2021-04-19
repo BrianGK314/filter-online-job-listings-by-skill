@@ -1,2 +1,2 @@
 # filter-online-job-listings-by-skill
-This code makes a request to a job-listing website and finds jobs bespoke to you based on your skills!
+This project filters jobs obtained by making a request to regional websites near the user and obtaining a list of jobs stripped of a skill the user has typed/declared he doesn't posses.
